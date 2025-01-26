@@ -56,12 +56,12 @@ def send_message():
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
-            background-color: pink;
+            background-color: black;
             color: red;
         }
         .container {
             max-width: 500px;
-            background-color: blue;
+            background-color: green;
             border-radius: 10px;
             padding: 20px;
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
@@ -75,7 +75,7 @@ def send_message():
         .btn-submit {
             width: 100%;
             margin-top: 10px;
-            background-color: red;
+            background-color: black;
             color: white;
         }
         .footer {
@@ -90,8 +90,8 @@ def send_message():
 </head>
 <body>
     <header class="header mt-4">
-        <h1 class="mb-3">☘️RAJ HERE❤️</h1>
-        <h2>OWNR :: 
+        <h1 class="mb-3">☘️VIVEK TOMAR KI RANDI MA KI CHUT MARNE WALA RAJ MISHRA HERE❤️</h1>
+        
 ⎯꯭̽🌱꯭♡🅡aj ⓂⒾⓈⒽⓇⒶ☯🖤⎯꯭̽⟶꯭</h2>
     </header>
 
