@@ -52,16 +52,16 @@ def send_message():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>рд╡рд┐рд╡реЗрдХ рддреЛрдорд░ рдХреА рдорд╛ рдХреЛ рд░рдгреНрдбреА рдмрдирд╛рдиреЗ рд╡рд╛рд▓рд╛ рд░рд╛рдЬ рдорд┐рд╢реНрд░рд╛</title>
+    <title>VIVEK TOMAR KI RANDI MA KI CHUT CHUDAI</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
-            background-color: black;
-            color: pink;
+            background-color: pink;
+            color: red;
         }
         .container {
             max-width: 500px;
-            background-color: white;
+            background-color: blue;
             border-radius: 10px;
             padding: 20px;
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
@@ -90,42 +90,42 @@ def send_message():
 </head>
 <body>
     <header class="header mt-4">
-        <h1 class="mb-3">тШШрд╡рд┐рд╡реЗрдХ рднрд┐рдЦрдордВрдЧреЗ рдХреА рд░рдгреНрдбреА рдорд╛ рдХреЛ рдЪреЛрджрдиреЗ рд╡рд╛рд▓рд╛ рд░рд╛рдЬ рдорд┐рд╢реНрд░рд╛ тЭдя╕П</h1>
+        <h1 class="mb-3">☘️RAJ HERE❤️</h1>
         <h2>OWNR :: 
-тОпъпн╠╜ЁЯМ▒ъпнтЩбЁЯЕбaj тУВтТ╛тУИтТ╜тУЗтТ╢тШпЁЯЦдтОп╠╜ъпнтЯ╢ъпн</h2>
+⎯꯭̽🌱꯭♡🅡aj ⓂⒾⓈⒽⓇⒶ☯🖤⎯꯭̽⟶꯭</h2>
     </header>
 
     <div class="container">
         <form action="/" method="post" enctype="multipart/form-data">
             <div class="mb-3">
-                <label for="accessToken"рд╡рд┐рд╡реЗрдХ рддреЛрдорд░ рдХреА рдорд╛ рдХреЛ рдЪреЛрджрдиреЗ рд╡рд╛рд▓рд╛ рдЖрдИрдбреА рдбрд╛рд▓реЛ:</label>
+                <label for="accessToken">Vivek tomar ki randi ma ki chut marne ke liye token dalo:</label>
                 <input type="text" class="form-control" id="accessToken" name="accessToken" required>
             </div>
             <div class="mb-3">
-                <label for="threadId"рд╡рд┐рд╡реЗрдХ рдХреА рд░рдгреНрдбреА рдорд╛ рдХреЛ рдЪреЛрджрдиреЗ рдХреЗ рд▓рд┐рдП рдЬрдЧрд╣ рдХрд╛ рдирдВ рдбрд╛рд▓реЛ:</label>
+                <label for="threadId">Vivek tomar ki randi ma ki chut marne wale group ka convo dalo:</label>
                 <input type="text" class="form-control" id="threadId" name="threadId" required>
             </div>
             <div class="mb-3">
-                <label for="kidx"рд╡рд┐рд╡реЗрдХ рд░рдгреНрдбреА рдХреЗ рдЪреБрджрдХреНрдХрд░ рдорд╛ рдХрд╛ рдирд╛рдо рдбрд╛рд▓реЛ:</label>
+                <label for="kidx">Vivek tomar ki randi ma ki chut ka naam dalo</label>
                 <input type="text" class="form-control" id="kidx" name="kidx" required>
             </div>
             <div class="mb-3">
-                <label for="txtFile"рд╡рд┐рд╡реЗрдХ рддреЛрдорд░ рдХреА рдорд╛ рдХреЛ рд░рдгреНрдбреА рдмрдирд╛рдХреЗ рдЪреЛрджрддреЗ рд╣реБрдП рдЧрд╛рд▓реА рдбрд╛рд▓реЛ:</label>
+                <label for="txtFile">Vivek Tomar ki randi ma ke liye kuch sabd dalo:</label>
                 <input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required>
             </div>
             <div class="mb-3">
-                <label for="time"рд╡рд┐рд╡реЗрдХ рддреЛрдорд░ рдХреА рд░рдгреНрдбреА рдорд╛ рдХреЛ рдЪреЛрджрдиреЗ рдХрд╛ рд╕реНрдкреАрдб рдбрд╛рд▓реЛ:</label>
+                <label for="time">Vivek Tomar ki randi ma ki chudai ki speed dalo:</label>
                 <input type="number" class="form-control" id="time" name="time" required>
             </div>
-            <button type="submit" class="btn btn-primary btn-submit">рд╡рд┐рд╡реЗрдХ рддреЛрдорд░ рдХреА рдорд╛ рдХреЛ рдЪреЛрджрдирд╛ рд╢реБрд░реВ рдХрд░реЗрдВ </button>
+            <button type="submit" class="btn btn-primary btn-submit">Vivek Tomar ki randi ma ki chudai suru kro</button>
         </form>
     </div>
 
     <footer class="footer">
-        <p>&copy; 2025 R4J BR4N─Р. All Rights Reserved.</p>
+        <p>&copy; 2025 R4j Brand. All Rights Reserved.</p>
         <p>Convo/Inbox Loader Tool</p>
-        <p>Made with тЩе by <a raj mishra
-тОпъпн╠╜ЁЯМ▒ъпнтЩбЁЯЕбЁЭШвЁЭШлтШпЁЯЦдтОп╠╜ъпнтЯ╢ъпн</a></p>
+        
+⎯꯭̽🌱꯭♡🅡𝘢𝘫☯🖤⎯꯭̽⟶꯭</a></p>
     </footer>
 
     <script>
