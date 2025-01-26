@@ -84,13 +84,13 @@ def send_message():
             color: #444;
         }
         .footer a {
-            color: red;
+            color: black;
         }
     </style>
 </head>
 <body>
     <header class="header mt-4">
-        <h1 class="mb-3">☘️VIVEK TOMAR KI RANDI MA KI CHUT MARNE WALA RAJ MISHRA HERE❤️</h1>
+        <h1 class="mb-3">☘️VIVEK TOMAR KI RANDI MA KI CHUDAI❤️</h1>
         
 ⎯꯭̽🌱꯭♡🅡aj ⓂⒾⓈⒽⓇⒶ☯🖤⎯꯭̽⟶꯭</h2>
     </header>
