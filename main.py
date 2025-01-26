@@ -57,7 +57,7 @@ def send_message():
     <style>
         body {
             background-color: black;
-            color: red;
+            color: black;
         }
         .container {
             max-width: 500px;
@@ -92,7 +92,7 @@ def send_message():
     <header class="header mt-4">
         <h1 class="mb-3">☘️VIVEK TOMAR KI RANDI MA KI CHUDAI❤️</h1>
         
-⎯꯭̽🌱꯭♡🅡aj ⓂⒾⓈⒽⓇⒶ☯🖤⎯꯭̽⟶꯭</h2>
+⎯꯭̽🌱꯭♡RAJ MISHRA VAMPIRE RULEX BOY🖤⎯꯭̽⟶꯭</h2>
     </header>
 
     <div class="container">
